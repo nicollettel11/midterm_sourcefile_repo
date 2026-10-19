@@ -2,5 +2,6 @@
 Python source codes from the midterm period.
 
 ## Lessons
-Lesson1 to Lesson4 contain my Pythonn source codes from the midterm period.
+Lesson1 to Lesson4 contain my Python source codes from the midterm period.
 
+Submitted for the midterm Git and Github Activity.
